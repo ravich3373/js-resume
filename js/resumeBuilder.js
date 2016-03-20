@@ -1,1 +1,1 @@
-$("#main").append([Ravi Teja Chukkapalli]);
+$("#main").append("Ravi Teja Chukkapalli");
